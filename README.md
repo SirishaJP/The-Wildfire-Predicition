@@ -20,6 +20,6 @@ Sirisha Jotheeswaran Padmasekhar
 
 Contact: sirishapadmasekhar@gmail.com
 
-To understand more about the project and the code implementation steps read the blog [here](https://medium.com/@sirishapadmasekhar/the-wildfire-prediction-9c565e2afa4e). 
+To understand more about the project and the code implementation steps, read the blog [here](https://medium.com/@sirishapadmasekhar/the-wildfire-prediction-9c565e2afa4e). 
 
 Copyright (c) 2023 SirishaJotheeswaranPadmasekhar 
