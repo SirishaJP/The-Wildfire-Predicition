@@ -1,0 +1,12 @@
+# To install the following packages, open anaconda navigator in Windows or terminal on Mac. All the below packages needs to be installed and imported. 
+
+In terminal install the packages given below one by one, make sure the libaries have been installed correctly. 
+
+   1. conda install pandas
+   2. cconda install -c anaconda sqlite
+   3. conda install -c anaconda seaborn 
+   4. conda install -c conda-forge matplotlib
+   5. conda install -c anaconda scikit-learn
+   6. conda install -c conda-forge xgboost
+   7. conda install -c conda-forge pprintpp
+   8. conda install -c anaconda numpy
